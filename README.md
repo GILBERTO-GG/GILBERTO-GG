@@ -21,20 +21,20 @@
   </ul>
 
   <h3 class="section-title">📊 Habilidades técnicas</h3>
-  <table class="skills-table">
-    <tr>
-      <th>Herramienta</th>
-      
-    </tr>
-    <tr><td>Python</td></tr>
-    <tr><td>SQL</td></tr>
-    <tr><td>Excel</td></tr>
-    <tr><td>Tableau</td></tr>
-    <tr><td>Power BI</td></tr>
-    <tr><td>R</td></tr>
-    <tr><td>Java</td></tr>
-    <tr><td>HTML5</td></tr>
-  </table>
+<table class="skills-table">
+  <tr>
+    <th>Herramienta</th>
+  </tr>
+  <tr><td>Python</td></tr>
+  <tr><td>SQL</td></tr>
+  <tr><td>Excel</td></tr>
+  <tr><td>Tableau</td></tr>
+  <tr><td>Power BI</td></tr>
+  <tr><td>R</td></tr>
+  <tr><td>Java</td></tr>
+  <tr><td>HTML5</td></tr>
+</table>
+
 
   <p><strong>Habilidades adicionales:</strong></p>
   <ul>
