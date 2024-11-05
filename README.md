@@ -39,7 +39,9 @@
   <p><strong>Habilidades adicionales:</strong></p>
   <ul>
     <li>Proactividad</li>
+    <li>Resiliencia</li>
     <li>Trabajo en equipo</li>
+    <li>Habilidades de Comunicación</li>
     <li>Pensamiento analítico</li>
     <li>Adaptabilidad y aprendizaje autodidacta</li>
   </ul>
