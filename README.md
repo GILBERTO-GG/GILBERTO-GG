@@ -1,78 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README - Gilberto Gutiérrez Gordillo</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      color: #333;
-      background-color: #f9f9f9;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-    }
-
-    h1 {
-      color: #2c3e50;
-      text-align: center;
-    }
-
-    h3 {
-      color: #2980b9;
-      font-weight: bold;
-      text-align: center;
-    }
-
-    .section-title {
-      color: #e67e22;
-      border-bottom: 2px solid #e67e22;
-      padding-bottom: 5px;
-      margin-top: 30px;
-    }
-
-    ul {
-      list-style-type: square;
-      color: #34495e;
-    }
-
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-
-    a:hover {
-      color: #d35400;
-    }
-
-    .skills-table, .projects-table {
-      width: 100%;
-      margin: 20px 0;
-      border-collapse: collapse;
-    }
-
-    .skills-table td, .projects-table td, .skills-table th, .projects-table th {
-      padding: 10px;
-      border: 1px solid #ddd;
-      text-align: left;
-    }
-
-    .skills-table th, .projects-table th {
-      background-color: #34495e;
-      color: white;
-    }
-
-    .footer {
-      text-align: center;
-      margin-top: 20px;
-      font-size: 1.2em;
-      color: #2ecc71;
-    }
-  </style>
-</head>
-<body>
-
   <h1>👋 ¡Hola! Soy Gilberto Gutiérrez Gordillo</h1>
   <h3>Analista de Datos | ETL | Big Data | Data Mining | Insights | Excel | Python | Tableau | PowerBI | SQL | R | Java | HTML | Proactividad | Analítico | Trabajo en Equipo</h3>
 
@@ -101,8 +26,8 @@
       <th>Herramienta</th>
       <th>Nivel de Habilidad</th>
     </tr>
-    <tr><td>Python</td><td>Avanzado</td></tr>
-    <tr><td>SQL</td><td>Avanzado</td></tr>
+    <tr><td>Python</td></tr>
+    <tr><td>SQL</td></tr>
     <tr><td>Excel</td><td>Avanzado</td></tr>
     <tr><td>Tableau</td><td>Intermedio</td></tr>
     <tr><td>Power BI</td><td>Intermedio</td></tr>
