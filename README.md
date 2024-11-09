@@ -47,19 +47,14 @@
 
 <h3 class="section-title">📈 Proyectos destacados</h3>
 <ul>
-  <li><strong><a href="#">Proyecto de ETL y Análisis Exploratorio</a></strong>
+  <li><strong><a href="#">Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles</a></strong>
     <ul>
-      <li>Desarrollé un pipeline ETL para integrar y analizar grandes volúmenes de datos.</li>
-      <li>Generé visualizaciones y dashboards interactivos en Tableau y Power BI para mostrar insights clave.</li>
+      <li>--Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.</li>
+      <li>--Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.</li>
+      <li>--Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.</li>
     </ul>
   </li>
-  <li><strong><a href="#">Modelo predictivo para toma de decisiones</a></strong>
-    <ul>
-      <li>Implementé un modelo predictivo usando Python y SQL para ayudar en la toma de decisiones estratégicas.</li>
-      <li>El modelo permitió identificar tendencias futuras y ayudar a la empresa a tomar decisiones informadas.</li>
-    </ul>
-  </li>
-</ul>
+  </ul>
 
 <h3 class="section-title">📫 ¡Conectemos!</h3>
 <p>Puedes encontrarme en:</p>
