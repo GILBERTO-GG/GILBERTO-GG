@@ -69,7 +69,9 @@
 </div>
 
 
-
+<hr>
+<br><br><br><br><br>
+<br><br><br><br><br>
 
 
 <h3 id="analisis-riesgo">Proyecto Detallado: Análisis de Riesgo para Compañía de Seguros de Automóviles</h3>
