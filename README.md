@@ -47,14 +47,15 @@
 
 <h3 class="section-title">📈 Proyectos destacados</h3>
 <ul>
-  <li><strong><a href="#Proyecto">Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles</a></strong>
+  <li><strong><a href="#analisis-riesgo">Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles</a></strong>
     <ul>
       <li>Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.</li>
       <li>Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.</li>
       <li>Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.</li>
     </ul>
   </li>
-  </ul>
+</ul>
+
 
 <h3 class="section-title">📫 ¡Conectemos!</h3>
 <p>Puedes encontrarme en:</p>
@@ -66,6 +67,20 @@
 <div class="footer">
   ¡Gracias por visitar mi perfil! 🚀 No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto.
 </div>
+
+
+
+
+
+<h3 id="analisis-riesgo">Proyecto Detallado: Análisis de Riesgo para Compañía de Seguros de Automóviles</h3>
+<p>Este proyecto consistió en...</p>
+<ul>
+  <li>Objetivo: Análisis de riesgos basado en datos de delitos automovilísticos en municipios de México.</li>
+  <li>Metodología: Se aplicaron técnicas de limpieza y transformación de datos, series de tiempo, y clustering.</li>
+  <li>Herramientas utilizadas: Python, SQL, Google Data Studio.</li>
+  <li>Resultados: Identificación de zonas de alto riesgo y establecimiento de precios competitivos para seguros.</li>
+</ul>
+<p>El análisis permitió...</p>
 
 </body>
 </html>
