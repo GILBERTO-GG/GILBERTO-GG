@@ -49,9 +49,9 @@
 <ul>
   <li><strong><a href="#">Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles</a></strong>
     <ul>
-      <li>--Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.</li>
-      <li>--Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.</li>
-      <li>--Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.</li>
+      <li>Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.</li>
+      <li>Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.</li>
+      <li>Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.</li>
     </ul>
   </li>
   </ul>
