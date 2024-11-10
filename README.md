@@ -69,21 +69,4 @@
 </div>
 
 
-<hr>
-<br><br><br><br><br>
-<br><br><br><br><br>
-
-
-<h3 id="analisis-riesgo">Proyecto Detallado: Análisis de Riesgo para Compañía de Seguros de Automóviles</h3>
-<p>Este proyecto consistió en...</p>
-<ul>
-  <li>Objetivo: Análisis de riesgos basado en datos de delitos automovilísticos en municipios de México.</li>
-  <li>Metodología: Se aplicaron técnicas de limpieza y transformación de datos, series de tiempo, y clustering.</li>
-  <li>Herramientas utilizadas: Python, SQL, Google Data Studio.</li>
-  <li>Resultados: Identificación de zonas de alto riesgo y establecimiento de precios competitivos para seguros.</li>
-</ul>
-<p>El análisis permitió...</p>
-
-</body>
-</html>
 
