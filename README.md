@@ -45,16 +45,12 @@
   <li>Adaptabilidad y aprendizaje autodidacta</li>
 </ul>
 
-<h3 class="section-title">📈 Proyectos destacados</h3>
-<ul>
-  <li><strong>**[Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles](https://github.com/GILBERTO-GG/Analisis_riesgo)**</strong>
-    <ul>
-      <li>Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.</li>
-      <li>Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.</li>
-      <li>Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.</li>
-    </ul>
-  </li>
-</ul>
+
+### 📈 Proyectos destacados
+- **[Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles](https://github.com/GILBERTO-GG/Analisis_riesgo)**
+  - Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.
+  - Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.
+  - Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.
 
 
 <h3 class="section-title">📫 ¡Conectemos!</h3>
