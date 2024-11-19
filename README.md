@@ -53,6 +53,7 @@
   - Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.
 
 - **[Proyecto: Ecommerce basado en Django](https://github.com/GILBERTO-GG/-Backend-Python-)**
+
   Este proyecto es una aplicación de Ecommerce desarrollada con Django que permite gestionar productos digitales y físicos. Incluye funcionalidades para listar, crear, actualizar, y eliminar productos, así como vistas protegidas mediante autenticación. Está diseñado para ser extensible, modular y adecuado para futuras integraciones.
 
 <h3 class="section-title">📫 ¡Conectemos!</h3>
