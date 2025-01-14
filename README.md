@@ -47,7 +47,7 @@
 
 
 ### 📈 Proyectos destacados
-- **[Proyecto: Análisis de Riesgo para Compañía de Seguros de Automóviles](https://github.com/GILBERTO-GG/Analisis_riesgo)**
+- **[Proyecto de Análisis de Datos: Análisis de Riesgo para Compañía de Seguros de Automóviles](https://github.com/GILBERTO-GG/Analisis_riesgo)**
   - Asumí el rol de analista de datos en una aseguradora de autos, con el objetivo de analizar datos municipales de delitos en México para medir riesgos.
   - Realicé la limpieza, transformación y análisis de datos para ayudar a establecer precios de seguros competitivos y rentables basados en la incidencia de delitos automovilísticos.
   - Entre los análisis implementados, se incluyen predicciones de series de tiempo y un clustering de peligrosidad por estado, además de visualizaciones en Google Data Studio para comunicar los resultados de manera clara y estratégica.
