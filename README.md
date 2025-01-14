@@ -56,7 +56,7 @@
 
   Este proyecto es una aplicación de Ecommerce desarrollada con Django que permite gestionar productos digitales y físicos. Incluye funcionalidades para listar, crear, actualizar, y eliminar productos, así como vistas protegidas mediante autenticación. Está diseñado para ser extensible, modular y adecuado para futuras integraciones.
 
-  - **[Proyecto de Ciencia de Datos: Predicción de Rotación de Empleados en el Sector Financiero, un enfoque basado en Machine Learning](https://github.com/GILBERTO-GG/Rotacion_empleados)**
+- **[Proyecto de Ciencia de Datos: Predicción de Rotación de Empleados en el Sector Financiero, un enfoque basado en Machine Learning](https://github.com/GILBERTO-GG/Rotacion_empleados)**
 
     Desarrollé un modelo predictivo utilizando Regresión Logística y Random Forest para identificar empleados con alto riesgo de abandono en una empresa financiera. El proyecto incluyó la limpieza, transformación y análisis de datos históricos para identificar factores clave como satisfacción laboral, salario, y horas extraordinarias. Además, implementé estrategias de retención basadas en los insights obtenidos, logrando optimizar las métricas predictivas y proveyendo visualizaciones claras para los gerentes de recursos humanos.
 
