@@ -1,5 +1,5 @@
 <h1>👋 ¡Hola! Soy Gilberto Gutiérrez Gordillo</h1>
-<h3>Analista de Datos | Científico de Datos | ETL | Big Data | Data Mining | Insight | Excel | Python | Tableau | PowerBI | SQL | R | Java | HTML | Proactividad | Analítico | Trabajo en Equipo</h3>
+<h3>Analista de Datos | Científico de Datos | ETL | Big Data | Data Mining | Insights | Excel | Python | Tableau | PowerBI | SQL | R | Java | HTML | Proactividad | Analítico | Trabajo en Equipo</h3>
 
 <p>¡Bienvenido a mi perfil de GitHub! Soy Ingeniero en Sistemas con experiencia en análisis de datos y desarrollo de soluciones que ayudan a la toma de decisiones estratégicas en las organizaciones.</p>
 
