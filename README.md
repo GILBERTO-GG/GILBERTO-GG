@@ -31,9 +31,7 @@
   <tr><td><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"> </td></tr>
   <tr><td><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"> </td></tr>
   <tr><td><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> </td></tr>
-  <tr><td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"> </td></tr>
-  <tr><td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> </td></tr>
-</table>
+ </table>
 
 <p><strong>Habilidades adicionales:</strong></p>
 <ul>
